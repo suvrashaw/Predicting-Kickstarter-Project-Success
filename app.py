@@ -6,7 +6,7 @@ import nltk
 nltk.download('punkt')
 
 # Load trained model
-pickle_in = open("gbdt_best_.pkl", 'rb')
+pickle_in = open("model.pkl", 'rb')
 classifier = pickle.load(pickle_in)
 
 
