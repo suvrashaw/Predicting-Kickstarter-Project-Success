@@ -8,7 +8,7 @@ We predict whether a Kickstarter project proposal succeeds or fails to meet the 
 
 ## Blueprint
 
-![data](images/blueprint.jpg)
+![data](images/blueprint.png)
 
 ## EDA: Some snaps from the notebook
 
