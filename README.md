@@ -2,11 +2,6 @@
 
 We predict whether a Kickstarter project proposal succeeds or fails to meet the fund-raising objective by only providing information from the project launch by means of 220, 000 project proposals scraped from Kickstarter. We evaluate the performance for these predictions of different machine learning models based on the project category, the fundraising objective and short product descriptions.
 
-## Prerequisites
-- Python 3
-- Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, scipy.
-- Word Cloud: Download from [**here**](https://pypi.org/project/wordcloud/)
-
 ## Sample Data: Download from [**here**](https://webrobots.io/kickstarter-datasets/).
 
 ![data](images/data.png)
@@ -53,7 +48,7 @@ GitBash
 
 ## Libraries Used
 
-```
+```python
 pandas
 numpy
 sklearn
@@ -64,6 +59,25 @@ nltk
 ```
 
 ## Hosted on Streamlit: Check **[here](https://share.streamlit.io/designer7876/kickstarter-success-prediction/main/app.py)**.
+
+**Procfile:**
+
+```
+web: sh setup.sh && streamlit run app.py
+```
+
+**setup.sh**
+
+```bash
+mkdir -p ~/.streamlit/
+echo "\
+[server]\n\
+headless = true\n\
+port = $PORT\n\
+enableCORS = false\n\
+\n\
+" > ~/.streamlit/config.toml
+```
 
 https://user-images.githubusercontent.com/56395895/131156078-aa227f90-8e13-4598-9c89-2e6e37b9804e.mp4
 
