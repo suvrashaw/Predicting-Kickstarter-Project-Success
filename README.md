@@ -1,4 +1,4 @@
-## Predicting Kickstarter Project Success [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iUEsroGaEK6EC-K8kpGMGgWRzJBOkicH) ![heroku](https://img.shields.io/badge/%E2%86%91_Deployed_to-Heroku-7056bf.svg?style=plastic) ![badge](https://img.shields.io/github/repo-size/suvrashaw/Predicting-Kickstarter-Project-Success?style=plastic)
+## Predicting Kickstarter Project Success [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iUEsroGaEK6EC-K8kpGMGgWRzJBOkicH) [![heroku](https://img.shields.io/badge/%E2%86%91_Deployed_to-Heroku-7056bf.svg?style=plastic)](https://kickstarter-project-success-1.herokuapp.com/) ![badge](https://img.shields.io/github/repo-size/suvrashaw/Predicting-Kickstarter-Project-Success?style=plastic)
 
 ![cover](images/cover.jpg)
 
