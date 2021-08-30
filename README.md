@@ -64,7 +64,7 @@ streamlit
 nltk
 ```
 
-## Hosted on Streamlit: Check **[here](https://share.streamlit.io/designer7876/kickstarter-success-prediction/main/app.py)**.
+## Hosted on Streamlit: Check **[here](https://share.streamlit.io/suvrashaw/predicting-kickstarter-project-success/prime/app.py)**.
 
 https://user-images.githubusercontent.com/56395895/131156078-aa227f90-8e13-4598-9c89-2e6e37b9804e.mp4
 
