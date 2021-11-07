@@ -1,6 +1,6 @@
 ## Predicting Kickstarter Project Success [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iUEsroGaEK6EC-K8kpGMGgWRzJBOkicH) [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/suvrashaw/predicting-kickstarter-project-success/prime/app.py) ![badge](https://img.shields.io/github/repo-size/suvrashaw/Predicting-Kickstarter-Project-Success?style=plastic)
 
-![cover](images/cover.jpg)
+![Blue Quote Technology Google Classroom Header (4)](https://user-images.githubusercontent.com/56395895/140661788-1e53adf5-38e2-463d-9625-3e83fb4b15d6.png)
 
 We predict whether a Kickstarter project proposal succeeds or fails to meet the fund-raising objective by only providing information from the project launch by means of 220, 000 project proposals scraped from Kickstarter. We evaluate the performance for these predictions of different machine learning models based on the project category, the fundraising objective and short product descriptions.
 
